@@ -1,0 +1,28 @@
+.search {
+  width: 100%;
+  display: inline-flex;
+  border: 1px solid grey;
+  padding: 5px;
+  margin: 30px 0;
+  background-color: white;
+}
+
+.search__img {
+  width: 24px;
+  height: auto;
+  padding: 4px;
+  order: -1;
+}
+
+.search__input {
+  width: inherit;
+  border: 0;
+}
+
+.search__input:focus {
+  outline: none;
+}
+
+.search__input:before {
+  content: "\f002";
+}
