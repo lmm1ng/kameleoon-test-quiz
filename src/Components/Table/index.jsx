@@ -1,4 +1,7 @@
 import React, { useEffect } from "react";
+
+import PropTypes from "prop-types";
+
 import Loader from "../Loader";
 
 import disabledIcon from "../../images/switch-off.svg";
@@ -95,6 +98,15 @@ const TableComp = ({
       )}
     </div>
   );
+};
+
+TableComp.propTypes = {
+  currentData: PropTypes.arrayOf(PropTypes.object).isRequired,
+  isRequestNeeded: PropTypes.bool.isRequired,
+  order: PropTypes.oneOf(["asc", "desc"]).isRequired,
+  sortingColumn: PropTypes.string.isRequired,
+  setData: PropTypes.func.isRequired,
+  setSortingColumn: PropTypes.func.isRequired,
 };
 
 export default TableComp;
