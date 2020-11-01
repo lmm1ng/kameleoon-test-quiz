@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kameleoon-test-quiz/static/css/main.0e92e533.chunk.css",
+    "main.js": "/kameleoon-test-quiz/static/js/main.1fbfe509.chunk.js",
+    "main.js.map": "/kameleoon-test-quiz/static/js/main.1fbfe509.chunk.js.map",
+    "runtime-main.js": "/kameleoon-test-quiz/static/js/runtime-main.4c5ee43b.js",
+    "runtime-main.js.map": "/kameleoon-test-quiz/static/js/runtime-main.4c5ee43b.js.map",
+    "static/js/2.3a3be00e.chunk.js": "/kameleoon-test-quiz/static/js/2.3a3be00e.chunk.js",
+    "static/js/2.3a3be00e.chunk.js.map": "/kameleoon-test-quiz/static/js/2.3a3be00e.chunk.js.map",
+    "index.html": "/kameleoon-test-quiz/index.html",
+    "static/css/main.0e92e533.chunk.css.map": "/kameleoon-test-quiz/static/css/main.0e92e533.chunk.css.map",
+    "static/js/2.3a3be00e.chunk.js.LICENSE.txt": "/kameleoon-test-quiz/static/js/2.3a3be00e.chunk.js.LICENSE.txt",
+    "static/media/loupe.10952747.svg": "/kameleoon-test-quiz/static/media/loupe.10952747.svg",
+    "static/media/padlock.a4109f09.svg": "/kameleoon-test-quiz/static/media/padlock.a4109f09.svg",
+    "static/media/sort-asc.d72e910e.svg": "/kameleoon-test-quiz/static/media/sort-asc.d72e910e.svg",
+    "static/media/sort-desc.680bb7d9.svg": "/kameleoon-test-quiz/static/media/sort-desc.680bb7d9.svg",
+    "static/media/switch-off.bfd6d9c3.svg": "/kameleoon-test-quiz/static/media/switch-off.bfd6d9c3.svg",
+    "static/media/switch-on.753df37f.svg": "/kameleoon-test-quiz/static/media/switch-on.753df37f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c5ee43b.js",
+    "static/js/2.3a3be00e.chunk.js",
+    "static/css/main.0e92e533.chunk.css",
+    "static/js/main.1fbfe509.chunk.js"
+  ]
+}
